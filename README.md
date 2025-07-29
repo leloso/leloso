@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leloso
-- 👀 I’m interested in Statistical Learning and Bioinfomratics
+- 👀 I’m interested in ML 
 - 🌱 I’m currently learning MatLab
 - 💞️ I’m looking to collaborate on anything challenging
 - 📫 How to reach me lel.orf03@gmail.com
